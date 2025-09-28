@@ -1,12 +1,4 @@
 
-
- 
- 
-
-
-   
-
-
 <hr></hr>
 
 <h1 align="center">👋 Greetings 👋</h1>
@@ -25,7 +17,7 @@
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Languages%20and%20Tools-orange )
 ![semicolon](https://img.shields.io/badge/-%3A-orange )
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white )
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black )
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white )
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white )
 
