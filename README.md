@@ -1,13 +1,11 @@
-<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>  
+
+ 
  
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Taha-profile&style=flat&color=orange&label=PROFILE+VIEWS )
+
    
 
-</div>
 
 <hr></hr>
 
@@ -16,6 +14,11 @@
 <h1 align="center"> 👤 I am Taha Al-Mukhtar 👤 </h1>
 
 <h3 align="center">💻 An undergraduate student in Computer Science(CS) 💻</h3>
+<div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+   
+![Totals Hits](https://komarev.com/ghpvc/?username=Taha969&style=flat&color=orange&label=PROFILE+VIEWS)
+</div>
 
 ---
 
