@@ -27,19 +27,19 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white )
 
 <h2 align="center">إحصائيات GitHub</h2>
-<div align="center" >
 <a  href="https://github.com/Taha969">
 
-<img src="https://raw.githubusercontent.com/Taha969/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Taha969/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Taha969/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taha969&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha969&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha969&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha969&theme=algolia)
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/Taha969/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha969&theme=algolia)
 
 </details>
   
