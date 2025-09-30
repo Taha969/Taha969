@@ -21,7 +21,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white )
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white )
 
-<h2 align="center">إحصائيات GitHub</h2>
+<h2 align="center"> 📊 statistics GitHub 📊 </h2>
 <a  href="https://github.com/Taha969">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taha969&theme=algolia)
