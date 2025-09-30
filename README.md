@@ -20,6 +20,11 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white )
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white )
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 <h2 align="center"> 📊 statistics GitHub 📊 </h2>
 <a  href="https://github.com/Taha969">
@@ -28,6 +33,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha969&theme=algolia&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha969&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha969&theme=algolia)
+
 
 </a>
 
