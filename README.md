@@ -53,7 +53,9 @@
 class TahaProfile extends CS_Student { 
   const myFocus = {  
     "ProgramingLanguages" : { "Python", "C", "C++", "R" },
-    "Platform" : { "GNU/Linux" },
-    "OtherTools" : { "Git", "VS Code" }
+    "OtherLanguages" : { "HTML", "CSS" },
+    "Platform" : { "GNU/Linux", "Windows" },
+    "Editors" : { "Vscode"},
+    "OtherTools" : { "Git" }
   };
 }
