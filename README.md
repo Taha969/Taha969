@@ -57,4 +57,4 @@ class TahaProfile extends CS_Student { 
     "Editors" : { "Vscode"},
     "OtherTools" : { "Git" }
   };
-} 
+}
