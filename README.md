@@ -1,6 +1,6 @@
 <hr></hr>
 
-<h1 align="center">👋 Greetings 👋</h1>
+<h1 align="center">👋Greetings👋</h1>
 
 <h1 align="center"> 👤 I am Taha Al-Mukhtar 👤 </h1>
 
