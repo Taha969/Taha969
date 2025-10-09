@@ -25,7 +25,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
-<h2 align="center"> 📊 statistics GitHub 📊 </h2>
+<h2 align="center"> 📊statistics GitHub📊 </h2>
 <a  href="https://github.com/Taha969">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taha969&theme=algolia)
