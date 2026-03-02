@@ -2,7 +2,7 @@
 
 **<h1 align="center">👋Greetings👋</h1>**
 
-***<h1 align="center"> 👤I am Taha Al-Mukhtar👤 </h1>***
+***<h1 align="center"> 👤I am Taha Alhajni‏👤 </h1>***
 
 <h3 align="center">💻An undergraduate student in Computer Science(CS)💻</h3>
 <div align="center" width="50">
